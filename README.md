@@ -45,8 +45,8 @@ Service Detail Page
 Booking Form
 Admin Dashboard
 Vendor Dashboard
+
 📂 Repository Structure
-Copy code
 
 service-booking-system-ba/
 │
@@ -66,6 +66,7 @@ service-booking-system-ba/
 │   └── Process_Flows.pdf
 │
 └── README.md
+
 📌 Key Highlights (For Resume)
 Documented complete BRD, SRS, Use Cases, User Stories, and Acceptance Criteria.
 Designed the end-to-end booking workflow with clear process mapping.
