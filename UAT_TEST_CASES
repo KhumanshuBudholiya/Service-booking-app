@@ -1,0 +1,7 @@
+UAT Test Cases
+Test Case ID	 Scenario	              Steps	                                       Expected Result                      	Status
+UAT-001	       User                   login	Enter mobile → Enter OTP → Login	     User lands on home screen	            Pending
+UAT-002	       Book a bike	          Search → Select bike → Confirm              Booking request sent to vendor	        Pending
+UAT-003	       Payment	              Complete ride → Pay	                       Payment success & receipt generated  	Pending
+UAT-004	       Vendor accept ride	    Vendor online → Receive request → Accept 	 Ride assigned successfully	            Pending
+UAT-005	       Admin approves vendor	Admin reviews docs → Approve	               Vendor status becomes active	          Pending
