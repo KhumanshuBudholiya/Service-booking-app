@@ -55,22 +55,34 @@ Vendor Dashboard
 📂 Repository Structure
 
 service-booking-system-ba/
+
 │
+
 ├── BRD/
 │   └── BRD.pdf
+
 │
+
 ├── SRS/
 │   └── SRS.pdf
+
 │
+
 ├── User_Stories/
 │   └── User_Stories.pdf
+
 │
+
 ├── UAT/
 │   └── UAT_Test_Cases.pdf
+
 │
+
 ├── Process_Flows/
 │   └── Process_Flows.pdf
+
 │
+
 └── README.md
 
 📌 Key Highlights (For Resume)
