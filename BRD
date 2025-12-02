@@ -1,0 +1,70 @@
+
+Business Requirements Document (BRD)
+
+1. Business Objectives
+
+Provide a fast and accessible bike-booking service for urban commuters.
+
+Reduce wait times by auto-matching users with nearby vendors/riders.
+
+Create a transparent fare estimation and secure payment process.
+
+Improve vendor operational efficiency via real-time booking allocation.
+
+Enable the admin team to monitor operations, vendor performance & service quality.
+
+2. Stakeholders
+
+Stakeholder	      Role
+
+End Users	        Book bikes for quick travel
+Vendors           Provide bikes and fulfill bookings
+(Bike Owners or Captains)	
+Admin Team	      Manage platform, vendors, payments, compliance
+Tech Team	        Develop & maintain the system
+Customer          Handle user issues and escalations
+SUPPORT
+Payment         	Enables secure transactions
+GATEWAY PROVIDER 
+
+3. Current Pain Points
+
+Difficulty in finding affordable short-distance transport quickly.
+
+Manual bike rental processes causing delays and poor user experience.
+
+No real-time system to match nearby bikes with customers.
+
+Vendors lack a unified platform for tracking earnings & fleet usage.
+
+Admins struggle with manual vendor onboarding and dispute management.
+
+4. Proposed Solution
+
+A mobile/web app that:
+
+Allows users to instantly book a nearby bike.
+
+Calculates fare automatically based on distance/time.
+
+Lets vendors approve/auto-accept bookings.
+
+Tracks rides in real-time via GPS.
+
+Integrates digital payments.
+
+Provides dashboards for admin & vendors.
+
+5. Scope
+
+User app for booking bikes
+
+Vendor app/portal for managing rides
+
+Admin dashboard for platform monitoring
+
+Real-time GPS mapping & ETA estimation
+
+Push/email notifications
+
+Basic analytics reports
