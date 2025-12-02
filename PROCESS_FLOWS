@@ -1,8 +1,9 @@
 Process Flow Documentation
 
-End-to-End Booking Workflow
 
-User opens app
+->->-> End-to-End Booking Workflow <-<-<-
+
+User opens app 
 
 System fetches GPS location
 
@@ -25,7 +26,7 @@ Rating submitted
 Admin monitors via dashboard
 
 
-Admin Operational Flow
+->->-> Admin Operational Flow <-<-<-
 
 Manage user accounts
 
@@ -36,7 +37,7 @@ Resolve disputes
 Generate reports
 
 
-Vendor Operational Flow
+->->-> Vendor Operational Flow <-<-<-
 
 Set availability (online/offline)
 
