@@ -1,0 +1,47 @@
+Process Flow Documentation
+
+End-to-End Booking Workflow
+
+User opens app
+
+System fetches GPS location
+
+Nearby bikes displayed
+
+User selects bike & confirms booking
+
+Vendor receives request
+
+Vendor accepts
+
+User tracks ride
+
+Ride completes
+
+Payment processed
+
+Rating submitted
+
+Admin monitors via dashboard
+
+
+Admin Operational Flow
+
+Manage user accounts
+
+Verify vendor documentation
+
+Resolve disputes
+
+Generate reports
+
+
+Vendor Operational Flow
+
+Set availability (online/offline)
+
+Accept/complete rides
+
+Track daily earnings
+
+Maintain bike status
