@@ -1,0 +1,49 @@
+User Stories
+
+User
+
+As a user, I want to register using my mobile number so that I can quickly start using the app.
+
+As a user, I want to view nearby available bikes so that I can book instantly.
+
+As a user, I want real-time fare estimation so that I know the cost before booking.
+
+As a user, I want to pay digitally so that the process is seamless.
+
+As a user, I want to track my ride so that I feel secure.
+
+Vendor
+
+As a vendor, I want to get booking alerts so that I can accept rides quickly.
+
+As a vendor, I want to track ongoing rides so that I can monitor my fleet.
+
+As a vendor, I want to view earning history so that I can manage finances.
+
+Admin
+
+As an admin, I want to manage vendors so that only verified providers operate.
+
+As an admin, I want to view reports so that I can track business performance.
+
+As an admin, I want to handle disputes so that user satisfaction is maintained.
+
+4️⃣ Acceptance Criteria (GIVEN – WHEN – THEN)
+
+User Booking
+
+Given user is logged in
+When they request a bike
+Then the system shall show available bikes within 3 km radius.
+
+Vendor Accept Ride
+
+Given vendor is online
+When a booking request arrives
+Then the vendor shall be able to accept within 30 seconds.
+
+Payment
+
+Given ride is completed
+When the user chooses a payment method
+Then the payment should process successfully and generate a receipt.
