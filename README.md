@@ -59,16 +59,19 @@ service-booking-system-ba/
 │
 
 ├── BRD/
+
 │   └── BRD.pdf
 
 │
 
 ├── SRS/
+
 │   └── SRS.pdf
 
 │
 
 ├── User_Stories/
+
 │   └── User_Stories.pdf
 
 │
@@ -79,6 +82,7 @@ service-booking-system-ba/
 │
 
 ├── Process_Flows/
+
 │   └── Process_Flows.pdf
 
 │
